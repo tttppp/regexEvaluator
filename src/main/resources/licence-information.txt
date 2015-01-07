@@ -20,7 +20,7 @@ as any of the copyrights mentioned below:
   about the suitability of this array for any purpose. It is provided
   "as is" without express or implied warranty.
 
-Alan Beale &lt;biljir@pobox.com&gt; also deserves special credit as he has,
+Alan Beale <biljir@pobox.com> also deserves special credit as he has,
 in addition to providing the 12Dicts package and being a major
 contributor to the ENABLE word list, given me an incredible amount of
 feedback and created a number of special lists (those found in the
@@ -55,11 +55,11 @@ The "UK English Wordlist With Frequency Classification" is also in the
 Public Domain:
 
   Date: Sat, 08 Jul 2000 20:27:21 +0100
-  From: Brian Kelk &lt;Brian.Kelk@cl.cam.ac.uk&gt;
+  From: Brian Kelk <Brian.Kelk@cl.cam.ac.uk>
 
-  &gt; I was wondering what the copyright status of your "UK English
-  &gt; Wordlist With Frequency Classification" word list as it seems to
-  &gt; be lacking any copyright notice.
+  > I was wondering what the copyright status of your "UK English
+  > Wordlist With Frequency Classification" word list as it seems to
+  > be lacking any copyright notice.
 
   There were many many sources in total, but any text marked
   "copyright" was avoided. Locally-written documentation was one
@@ -69,7 +69,7 @@ Public Domain:
 
   Date: Tue, 11 Jul 2000 19:31:34 +0100
 
-  &gt; So are you saying your word list is also in the public domain?
+  > So are you saying your word list is also in the public domain?
 
   That is the intention.
 
@@ -156,7 +156,7 @@ ENABLE supplement package (except for ABLE), the "UK Advanced Cryptics
 Dictionary" (UKACD), the list of signature words from the YAWL package,
 and the 10,196 places list from the MWords package.
 
-The ENABLE package, mainted by M\Cooper &lt;thegrendel@theriver.com&gt;,
+The ENABLE package, mainted by M\Cooper <thegrendel@theriver.com>,
 is in the Public Domain:
 
   The ENABLE master word list, WORD.LST, is herewith formally released
@@ -175,7 +175,7 @@ is in the Public Domain:
   WORD.LST portion of your product. This *may* under law restrict your
   rights to restrict your users' rights, but that is only fair.
 
-UKACD, by J Ross Beresford &lt;ross@bryson.demon.co.uk&gt;, is under the
+UKACD, by J Ross Beresford <ross@bryson.demon.co.uk>, is under the
 following copyright:
 
   Copyright (c) J Ross Beresford 1993-1999. All Rights Reserved.
